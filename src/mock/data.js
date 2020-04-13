@@ -19,9 +19,10 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'I\'m since 2018 to 2020 January have learned "Front-end" development, and since' +
-    ' 2020 march to april have been worked Front-end / React JS developer.' +
-    ' For more details can you see below in my CV.',
+    'I have learned Front-end development from 2018 to 2020 January , and have been worked' +
+    ' Front-end / React JS developer from' +
+    ' 2020 March to April. ' +
+    ' For more details can you see below in my Resume.',
   paragraphTwo: ' ',
   paragraphThree: ' ',
   resume: 'https://drive.google.com/open?id=1GAtzf-jgSzI_guFiaKK8irtCOxlklzjm', // if no resume, the button will not show up
@@ -49,7 +50,7 @@ export const projectsData = [
     title: 'Beers App',
     info:
       'Beer bank App is beers catalog site where you can see beer details, search by ' +
-      'parameters, select as favourite and etc. Has been Used React JS, Redux-Saga, lodash etc.',
+      'parameters, select as favourite and etc. Has been used React JS, Redux-Saga, lodash etc.',
     info2: '',
     url: 'https://hrant-p.github.io/beers',
     repo: 'https://github.com/Hrant-p/beers', // if no repo, the button will not show up
@@ -70,10 +71,10 @@ export const projectsData = [
     title: 'Event Finder App',
     info:
       'This project is an application that allows you to register, login and access a panel from' +
-      ' which you will be able to search by "Eventbrite API", by address and by name, to search' +
-      ' for upcoming events. see their location on the map.  ' +
+      ' which you will be able to search by Eventbrite API, by address and name, to search' +
+      ' for upcoming events, see their location on the map.  ' +
       ' !! Attention: Since December 2019, the ability to search through the' +
-      ' "Eventbrite API" has been temporarily suspended and it may not work ․',
+      ' Eventbrite API has been temporarily suspended and it may not work ․',
     info2: '',
     url: 'https://event-finder-89e7f.web.app/',
     repo: 'https://github.com/Hrant-p/event-finder', // if no repo, the button will not show up
@@ -84,7 +85,7 @@ export const projectsData = [
     title: 'Microposts App',
     info:
       'The project is developed with Vanilla Javascript ( SPA ), it is for creating, storing' +
-      ' and deleting microposts. Has been used Firebase, Webpack and Babel.',
+      ' and deleting microposts. I Have used Firebase, Webpack, Babel etc..',
     info2: '',
     url: 'https://microposts-2020.web.app/',
     repo: 'https://github.com/Hrant-p/microposts', // if no repo, the button will not show up
