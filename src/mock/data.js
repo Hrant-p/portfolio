@@ -95,7 +95,7 @@ export const projectsData = [
     img: 'todo-list.png',
     title: 'To-Do List Project',
     info:
-      'To-do list app is a list that contain all of the tasks that you' +
+      'To-do list is an multi language app that contain all of the tasks that you' +
       ' need to complete. You may delete, create or highlight it as done.',
     info2: '',
     url: 'https://hrant-p.github.io/todo-list',
